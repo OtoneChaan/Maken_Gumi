@@ -4,10 +4,12 @@ import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Items;
 
+/* クリエイティブでインベントリ開いた時の大分類 */
 public class kagayaTab extends CreativeModeTab {
 
+    /* ここはタブの名前 */
     public kagayaTab() {
-        super("kagaya_tab");
+        super("MPH_tab");
     }
 
     @Override
