@@ -1,3 +1,5 @@
 {
-  "ItemGroup.kagaya_tab" : "kagaya"
+  "ItemGroup.kagaya_tab" : "kagaya",
+  "item.kagaya.hojor_ingot" : "hojoringot",
+  "item.kagaya.hojok_ingot" : "hojokingot"
 }
