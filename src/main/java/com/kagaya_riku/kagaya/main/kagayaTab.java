@@ -5,6 +5,7 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Items;
 
 /* クリエイティブでインベントリ開いた時の大分類 */
+/* kagaya内共通です */
 public class kagayaTab extends CreativeModeTab {
 
     /* ここはタブの名前 */

@@ -14,7 +14,6 @@ public class kagayaIngot extends Item {
         /* Item.Properties型        下はインベントリのタブをどこにするか*/
         super(new Properties().tab(kagaya.KAGAYA_TAB).fireResistant());
 
-
         this.setRegistryName("hojo_ingot");
     }
 }
