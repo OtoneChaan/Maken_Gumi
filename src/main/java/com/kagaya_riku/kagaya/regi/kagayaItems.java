@@ -22,7 +22,7 @@ public class kagayaItems {
         @SubscribeEvent
         public static void registerItems(final RegistryEvent.Register<Item> event){
 
-            /* 作ったアイテムを登録するときはここに入れるkagayaIngot型のインスタンス変数(アイテム)) */
+            /* 作ったアイテムを登録するときはここに入れる。kagayaIngot型のインスタンス変数(アイテム)) */
             final Item[] items = {
                     hojoIngot,
                     hojoKIngot
