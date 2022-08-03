@@ -11,6 +11,6 @@ public class hojoKIngot extends Item {
 
         super(new Properties().tab(kagaya.KAGAYA_TAB).fireResistant());
 
-        this.setRegistryName("hojoK_Ingot");
+        this.setRegistryName("hojok_ingot");
     }
 }
