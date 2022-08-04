@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "texture": {
-    "layer0": "kagaya:item/texture/hojokin_sword"
+    "layer0": "kagaya:item/hojokin_pickaxe"
   }
 }

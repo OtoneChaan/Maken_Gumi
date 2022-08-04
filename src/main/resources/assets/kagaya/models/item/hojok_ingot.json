@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "kagaya:textures/item/hojok_ingot"
+    "layer0": "kagaya:item/hojok_ingot"
   }
 }
