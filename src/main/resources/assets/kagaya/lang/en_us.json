@@ -2,5 +2,6 @@
   "ItemGroup.kagaya_tab" : "kagaya",
   "item.kagaya.hojo_ingot" : "hojor_ingot",
   "item.kagaya.hojok_ingot" : "hojok_ingot",
-  "item.kagaya.hojokin" : "hojokin_Pickaxe"
+  "item.kagaya.hojokin_pickaxe" : "hojokin_Pickaxe",
+  "item.kagaya.hojokin_sword" : "hojokin_sword"
 }

@@ -18,7 +18,7 @@ import org.jetbrains.annotations.Nullable;
 
 import java.util.List;
 
-/* 補助金ピッケルを作成、マイクラに最初からあるクラスを継承 */
+//if adding tool, the tool class extend default toolItem class
 public class ToolHojokinPickaxe extends PickaxeItem {
 
 
@@ -28,7 +28,7 @@ public class ToolHojokinPickaxe extends PickaxeItem {
     /* 実際の攻撃速度 4 + toolの攻撃速度              */
     public ToolHojokinPickaxe() {
 
-        /* マイクラ内ピッケル全部この値です */
+        /* This value is common in minecraft(Pickaxe) */
         super(kagayaTiers.HOJOKIN, 1, -2.8F, new Properties().tab(kagaya.KAGAYA_TAB).fireResistant());
         this.setRegistryName("hojokin_pickaxe");
     }

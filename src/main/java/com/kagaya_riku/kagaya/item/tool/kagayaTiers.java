@@ -14,7 +14,7 @@ import java.util.List;
 public class kagayaTiers {
 
     /* アイテムのティアを設定(耐久度とか) */
-    public static final ForgeTier HOJOKIN = new ForgeTier(5, 3000, 15F, 8F, 50, kagayaTags.Blocks.NEEDS_KAGAYA_TOOL,()-> Ingredient.of(Items.DIAMOND));
+    public static final ForgeTier HOJOKIN = new ForgeTier(5, 3000, 15F, 10F, 50, kagayaTags.Blocks.NEEDS_KAGAYA_TOOL,()-> Ingredient.of(Items.DIAMOND));
 
     /* ティアの登録 */
     static {

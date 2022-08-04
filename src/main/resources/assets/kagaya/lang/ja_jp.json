@@ -2,5 +2,6 @@
   "ItemGroup.kagaya_tab" : "加賀谷",
   "item.kagaya.hojo_ingot" : "補助輪ゴット",
   "item.kagaya.hojok_ingot" : "補助金ゴット",
-  "item.kagaya.hojokin" : "補助金ピッケル"
+  "item.kagaya.hojokin_pickaxe" : "補助金ピッケル",
+  "item.kagaya.hojokin_sword" : "補助金ソード"
 }

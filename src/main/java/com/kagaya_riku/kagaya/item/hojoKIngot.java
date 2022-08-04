@@ -14,6 +14,7 @@ public class hojoKIngot extends Item {
         /* Item.Properties型        下はインベントリのタブをどこにするか*/
         super(new Properties().tab(kagaya.KAGAYA_TAB).fireResistant());
 
+        // Registered under this name(NAME_ID?)
         this.setRegistryName("hojok_ingot");
     }
 }
